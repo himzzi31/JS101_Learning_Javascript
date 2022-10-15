@@ -1,1 +1,3 @@
 hey there this is my first git bash work
+i am wrting to so i can understand git pull
+
